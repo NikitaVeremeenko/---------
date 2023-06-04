@@ -1,0 +1,15 @@
+C:\Users\verem\OneDrive\Рабочий стол\Programming\Алгоритмизация2\РГР\bin\Debug\net6.0\РГР.exe
+C:\Users\verem\OneDrive\Рабочий стол\Programming\Алгоритмизация2\РГР\bin\Debug\net6.0\РГР.deps.json
+C:\Users\verem\OneDrive\Рабочий стол\Programming\Алгоритмизация2\РГР\bin\Debug\net6.0\РГР.runtimeconfig.json
+C:\Users\verem\OneDrive\Рабочий стол\Programming\Алгоритмизация2\РГР\bin\Debug\net6.0\РГР.dll
+C:\Users\verem\OneDrive\Рабочий стол\Programming\Алгоритмизация2\РГР\bin\Debug\net6.0\РГР.pdb
+C:\Users\verem\OneDrive\Рабочий стол\Programming\Алгоритмизация2\РГР\obj\Debug\net6.0\РГР.csproj.AssemblyReference.cache
+C:\Users\verem\OneDrive\Рабочий стол\Programming\Алгоритмизация2\РГР\obj\Debug\net6.0\РГР.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verem\OneDrive\Рабочий стол\Programming\Алгоритмизация2\РГР\obj\Debug\net6.0\РГР.AssemblyInfoInputs.cache
+C:\Users\verem\OneDrive\Рабочий стол\Programming\Алгоритмизация2\РГР\obj\Debug\net6.0\РГР.AssemblyInfo.cs
+C:\Users\verem\OneDrive\Рабочий стол\Programming\Алгоритмизация2\РГР\obj\Debug\net6.0\РГР.csproj.CoreCompileInputs.cache
+C:\Users\verem\OneDrive\Рабочий стол\Programming\Алгоритмизация2\РГР\obj\Debug\net6.0\РГР.dll
+C:\Users\verem\OneDrive\Рабочий стол\Programming\Алгоритмизация2\РГР\obj\Debug\net6.0\refint\РГР.dll
+C:\Users\verem\OneDrive\Рабочий стол\Programming\Алгоритмизация2\РГР\obj\Debug\net6.0\РГР.pdb
+C:\Users\verem\OneDrive\Рабочий стол\Programming\Алгоритмизация2\РГР\obj\Debug\net6.0\РГР.genruntimeconfig.cache
+C:\Users\verem\OneDrive\Рабочий стол\Programming\Алгоритмизация2\РГР\obj\Debug\net6.0\ref\РГР.dll

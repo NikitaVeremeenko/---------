@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dGyO7d6kYciskSByWvoKR9pO7EkyhPgBTsEEbnZ30tUSXIPqwI0U2cBo61tJHVFw1xdFMkTtbk2pVBKTDq/uyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\verem\\OneDrive\\Рабочий стол\\Программирование\\Проверьте\\Алгоритмизация 2 семестр\\лабы аудиторные\\lab3\\lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\verem\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\verem\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\verem\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\verem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
